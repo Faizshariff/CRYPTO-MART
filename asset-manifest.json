@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CRYPTO-MART/static/css/main.d36b03d4.css",
+    "main.js": "/CRYPTO-MART/static/js/main.0bfb1d47.js",
+    "static/media/MART.png": "/CRYPTO-MART/static/media/MART.7c5ed5d4d4e05acf02ef.png",
+    "index.html": "/CRYPTO-MART/index.html",
+    "main.d36b03d4.css.map": "/CRYPTO-MART/static/css/main.d36b03d4.css.map",
+    "main.0bfb1d47.js.map": "/CRYPTO-MART/static/js/main.0bfb1d47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d36b03d4.css",
+    "static/js/main.0bfb1d47.js"
+  ]
+}
